@@ -1,0 +1,23 @@
+{
+  "urls": [
+    {
+      "id": "https://ronin.co.il",
+      "selectors": [
+        ":nth-child(3) > a",
+        ":nth-child(3) > a",
+        ":nth-child(21)"
+      ],
+      "warnings": [
+        "this is a warning"
+      ],
+      "variants": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        }
+      ]
+    }
+  ]
+}
