@@ -1,7 +1,8 @@
 {
   "urls": [
     {
-      "id": "https://ronin.co.il",
+      "id": 1,
+      "url": "https://migita.io",
       "selectors": [
         ":nth-child(3) > a",
         ":nth-child(3) > a",
@@ -10,14 +11,7 @@
       "warnings": [
         "this is a warning"
       ],
-      "variants": [
-        {
-          "id": 1
-        },
-        {
-          "id": 2
-        }
-      ]
+      "variants": 2
     }
   ]
 }
