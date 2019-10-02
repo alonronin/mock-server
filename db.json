@@ -1,5 +1,5 @@
 {
-  "urls": [
+  "editor":
     {
       "id": 1,
       "url": "https://migita.io",
@@ -13,5 +13,4 @@
       ],
       "variants": 2
     }
-  ]
 }
